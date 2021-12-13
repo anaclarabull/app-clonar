@@ -141,6 +141,7 @@ const styles = StyleSheet.create({
   signUpContainer:{
     flexDirection: 'row',
     marginTop: '10%',
+    marginBottom: '15%',
   },
   signUpText:{
     color: '#c4c4c4',
